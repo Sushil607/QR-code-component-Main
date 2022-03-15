@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Sushil607/QR-code-component-Main)
-- Live Site URL: [Add live site URL here](https://qr-code-component-main-sdb.netlify.app/)
+- Solution URL: [URL here](https://github.com/Sushil607/QR-code-component-Main)
+- Live Site URL: [Netlify URL here](https://qr-code-component-main-sdb.netlify.app/)
 
 ## My process
 
@@ -32,4 +32,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Sushil607)
+- Frontend Mentor Profile - [@Sushil607](https://www.frontendmentor.io/profile/Sushil607)
